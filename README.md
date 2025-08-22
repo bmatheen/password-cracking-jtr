@@ -10,6 +10,9 @@ This project demonstrates how weak passwords can be cracked from **md5crypt** ha
 - Generate a password hash with `openssl`
 - Crack it with `john`
 - Show why strong passwords and modern KDFs (bcrypt/scrypt/Argon2) matter
+  
+## Snap Shot
+![alt Text](/screenshot_of_encrypting_password.png)
 
 ## Quick Start
 ```bash

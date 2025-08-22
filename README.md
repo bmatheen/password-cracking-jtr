@@ -12,7 +12,7 @@ This project demonstrates how weak passwords can be cracked from **md5crypt** ha
 - Show why strong passwords and modern KDFs (bcrypt/scrypt/Argon2) matter
   
 ## Snap Shot
-![alt Text](encryption.png)
+![alt Text](Crack Encrypted Password/encryption.png)
 
 ## Quick Start
 ```bash
